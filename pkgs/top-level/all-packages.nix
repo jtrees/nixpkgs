@@ -41092,6 +41092,7 @@ with pkgs;
   mfc9140cdncupswrapper = callPackage ../misc/cups/drivers/mfc9140cdncupswrapper { };
   mfc9140cdnlpr = callPackage ../misc/cups/drivers/mfc9140cdnlpr { };
 
+  mfc9142cdncupswrapper = callPackage ../misc/cups/drivers/mfc9142cdncupswrapper { };
   mfc9142cdnlpr = callPackage ../misc/cups/drivers/mfc9142cdnlpr { };
 
   samsung-unified-linux-driver_1_00_36 = callPackage ../misc/cups/drivers/samsung/1.00.36 { };
